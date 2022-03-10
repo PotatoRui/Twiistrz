@@ -1,8 +1,10 @@
-![Daishitie's github stats](https://github-readme-stats.vercel.app/api?username=Daishitie&show_icons=true)
+![Twiistrz's github stats](https://github-readme-stats.vercel.app/api?username=Twiistrz&show_icons=true)
 
-[![Daishitie's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Daishitie)](https://git.io/streak-stats)
+[![Twiistrz's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Twiistrz)](https://git.io/streak-stats)
 
-![Daishitie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daishitie&layout=compact&langs_count=12)
+![Twiistrz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twiistrz&layout=compact&langs_count=12)
+
+Discord: Twiistrz#0001
 
 <!--
 **daishitie/daishitie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
