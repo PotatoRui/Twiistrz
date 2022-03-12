@@ -1,10 +1,13 @@
-![Twiistrz's github stats](https://github-readme-stats.vercel.app/api?username=Twiistrz&show_icons=true)
-
-[![Twiistrz's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Twiistrz)](https://git.io/streak-stats)
-
-![Twiistrz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twiistrz&layout=compact&langs_count=12)
-
-Discord: Twiistrz#0001
+<div align="center">
+  <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twiistrz&theme=onedark&hide_border=true&layout=compact&langs_count=10" />
+  <div>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Twiistrz&theme=onedark&show_icons=true&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Twiistrz&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  </div>
+  <img width="98.5%" src="https://activity-graph.herokuapp.com/graph?username=Twiistrz&theme=onedark&bg_color=282c34&hide_border=true&line=e4bf7a&point=e4bf7a&color=e4bf7a" />
+  <img width="98.5%" src="https://github-profile-trophy.vercel.app/?username=Twiistrz&row=4&theme=onedark&no-frame=true" />
+</div>
 
 <!--
 **daishitie/daishitie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
